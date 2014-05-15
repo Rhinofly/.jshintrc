@@ -5,6 +5,8 @@ JS Hint configuration file, for editors, grunt-contrib-jshint, etc
 
 This configuration file is roughly based on our [javascript styleguide](https://github.com/Rhinofly/idiomatic.js).
 
+The options are explained on the [jshint website](http://www.jshint.com/docs/options/).
+
 Note: define & require are set as globals, since most of our projects use requirejs. Disable or add more globals as required.
 
 ## How to use with [grunt-contrib-jshint](https://github.com/gruntjs/grunt-contrib-jshint)?
